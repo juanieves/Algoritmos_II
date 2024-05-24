@@ -1,0 +1,16 @@
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\Nieves_Juan_Calculadora.csprojAssemblyReference.cache
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\Nieves_Juan_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\Nieves_Juan_Calculadora.AssemblyInfoInputs.cache
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\Nieves_Juan_Calculadora.AssemblyInfo.cs
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\Nieves_Juan_Calculadora.csproj.CoreCompileInputs.cache
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\bin\Debug\net5.0\Nieves_Juan_Calculadora.exe
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\bin\Debug\net5.0\Nieves_Juan_Calculadora.deps.json
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\bin\Debug\net5.0\Nieves_Juan_Calculadora.runtimeconfig.json
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\bin\Debug\net5.0\Nieves_Juan_Calculadora.runtimeconfig.dev.json
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\bin\Debug\net5.0\Nieves_Juan_Calculadora.dll
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\bin\Debug\net5.0\ref\Nieves_Juan_Calculadora.dll
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\bin\Debug\net5.0\Nieves_Juan_Calculadora.pdb
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\Nieves_Juan_Calculadora.dll
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\ref\Nieves_Juan_Calculadora.dll
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\Nieves_Juan_Calculadora.pdb
+C:\VisualCode\Programacion\Nieves_Juan_Calculadora\obj\Debug\net5.0\Nieves_Juan_Calculadora.genruntimeconfig.cache

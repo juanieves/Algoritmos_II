@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Palindromo_NievesJuan/1.0.0": {
+        "runtime": {
+          "Palindromo_NievesJuan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindromo_NievesJuan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

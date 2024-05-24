@@ -1,0 +1,16 @@
+C:\VisualCode\Programacion\Palindromo_NievesJuan\bin\Debug\net5.0\Palindromo_NievesJuan.exe
+C:\VisualCode\Programacion\Palindromo_NievesJuan\bin\Debug\net5.0\Palindromo_NievesJuan.deps.json
+C:\VisualCode\Programacion\Palindromo_NievesJuan\bin\Debug\net5.0\Palindromo_NievesJuan.runtimeconfig.json
+C:\VisualCode\Programacion\Palindromo_NievesJuan\bin\Debug\net5.0\Palindromo_NievesJuan.runtimeconfig.dev.json
+C:\VisualCode\Programacion\Palindromo_NievesJuan\bin\Debug\net5.0\Palindromo_NievesJuan.dll
+C:\VisualCode\Programacion\Palindromo_NievesJuan\bin\Debug\net5.0\ref\Palindromo_NievesJuan.dll
+C:\VisualCode\Programacion\Palindromo_NievesJuan\bin\Debug\net5.0\Palindromo_NievesJuan.pdb
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\Palindromo_NievesJuan.csprojAssemblyReference.cache
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\Palindromo_NievesJuan.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\Palindromo_NievesJuan.AssemblyInfoInputs.cache
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\Palindromo_NievesJuan.AssemblyInfo.cs
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\Palindromo_NievesJuan.csproj.CoreCompileInputs.cache
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\Palindromo_NievesJuan.dll
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\ref\Palindromo_NievesJuan.dll
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\Palindromo_NievesJuan.pdb
+C:\VisualCode\Programacion\Palindromo_NievesJuan\obj\Debug\net5.0\Palindromo_NievesJuan.genruntimeconfig.cache
